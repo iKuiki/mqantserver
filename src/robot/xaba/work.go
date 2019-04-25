@@ -40,7 +40,7 @@ func NewWork(manager *Manager) *Work {
 	})
 	// load root ca
 	// 需要一个证书，这里使用的这个网站提供的证书https://curl.haxx.se/docs/caextract.html
-	caData, err := ioutil.ReadFile("/work/go/gopath/src/github.com/liangdas/armyant/mqtt_task/caextract.pem")
+	caData, err := ioutil.ReadFile("xaba/caextract.pem")
 	if err != nil {
 		fmt.Println(err.Error())
 	}
