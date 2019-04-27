@@ -8,7 +8,6 @@ github.com/gorilla/mux v1.7.1 h1:Dw4jY2nghMMRsh1ol8dv1axHkDwMQK2DHerMNJsIpJU=
 github.com/gorilla/mux v1.7.1/go.mod h1:1lud6UwP+6orDFRuTfBEV8e9/aOM/c4fVVCaMa2zaAs=
 github.com/gorilla/websocket v1.4.0 h1:WDFjx/TMzVgy9VdMMQi2K2Emtwi2QcUQsztZ/zLaH/Q=
 github.com/gorilla/websocket v1.4.0/go.mod h1:E7qHFY5m1UJ88s3WnNqhKjPHQ0heANvMoAMk2YaljkQ=
-github.com/liangdas/mqant v1.8.0/go.mod h1:inl0LpqB2/OqbD73zleLHiD9lVGUDRP2jrmgUp/4g10=
 github.com/liangdas/mqant v1.8.1-0.20190315223947-b00976690c60 h1:4twF1h4qWpk95c4ewsEMXGFAp15trTS/mgocxbJeCUQ=
 github.com/liangdas/mqant v1.8.1-0.20190315223947-b00976690c60/go.mod h1:inl0LpqB2/OqbD73zleLHiD9lVGUDRP2jrmgUp/4g10=
 github.com/liangdas/mqant-modules v0.0.0-20190318133517-0c0699b2a189 h1:PCzAFJLaRdTn4Brcd74U5z0xt4YWA/Y1YOzua0kz9Lk=
